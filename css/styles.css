@@ -1,0 +1,54 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+    background-color: #f4f4f4;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+h1 {
+    color: #333;
+}
+
+h2 {
+    color: #0056b3; /* Color azul para subtítulos */
+}
+
+h3 {
+    color: #007BFF; /* Un tono azul más claro */
+}
+
+p {
+    color: #666; /* Color gris para los párrafos */
+}
+
+ul {
+    list-style-type: disc; /* Estilo de lista redondo con relleno */
+    padding-left: 20px;
+}
+
+footer {
+    margin-top: 20px;
+    text-align: left;
+    font-size: 0.9em;
+}
+
+/* Estilo del enlace */
+a {
+    color: #0056b3; /* Color azul para los enlaces */
+    text-decoration: none; /* Quitar el subrayado */
+}
+
+a:hover {
+    text-decoration: underline; /* Subrayar al pasar el ratón */
+}
+
+/* Estilo de la imagen */
+img {
+    border-radius: 50%; /* Hacer la imagen redonda */
+    border: 2px solid #0056b3; /* Borde azul */
+}
